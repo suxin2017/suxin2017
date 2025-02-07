@@ -3,7 +3,6 @@
 ###
 
 <p align="left" >My name is suxin and I'm a program developer from china </p> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=suxin2017.suxin2017&left_text=Number%20of%20visitors"  />
 
 ###
 
